@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-classic
+langchain-groq
+faiss-cpu
+yt-dlp
+youtube-transcript-api
+groq
+rank-bm25
+sentence-transformers
+langchain-huggingface
+pytubefix>=8.0.0
+static-ffmpeg
